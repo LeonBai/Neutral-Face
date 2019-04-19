@@ -1,0 +1,5 @@
+Tensorflow > 1.2
+keras > 1.2
+numpy
+matplotlib 
+scipy
