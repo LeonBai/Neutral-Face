@@ -1,8 +1,15 @@
 The contains the following files:
 
 1. Main script for conditional generation of Neutral facial expression from Encapsulated Variational Auto-Encoder on FER2013 DATASET
-2. Main script to compute tau to derive the proactive label relaxtion technique
-3. Main script for label relaxtion to get relaxed labels
-4. Main script for multi-task learning with joint focal loss 
+        EVAE_CNN_conditional_vs.UNcon_Fer2013_v2.ipynb
 
-PS. all main script are accompanied with training details and configruations 
+2. Main script to compute tau to derive the proactive label relaxtion technique
+        similarity_index_v2.ipynb
+
+3. Main script for label relaxtion to get relaxed labels
+        proactive_label_relaxation_v1.ipynb
+        
+4. Main script for multi-task learning with joint focal loss
+        Neutral_Face_Merge_loss_Model_1.ipynb
+
+PS. all notebooks are accompanied with training details and configruations 
